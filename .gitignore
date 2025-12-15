@@ -2,4 +2,6 @@ old/
 VLM_detect/
 results/*
 dataset/*
+!results/.gitkeep
+!dataset/.gitkeep
 GroundingDINO/weights/groundingdino_swint_ogc.pth
