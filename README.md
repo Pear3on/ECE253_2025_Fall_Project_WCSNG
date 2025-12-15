@@ -8,7 +8,7 @@ cd dataset
 
 The first 170 images are used as the test set, while the remaining images are used as the validation set.
 
-Dataset Link: \href{https://drive.google.com/file/d/1pOdMrvXrhLBH4s2rnYgf5hxx1BbhwHWH/view?usp=drive_link}{Google Drive}
+Dataset Link: https://drive.google.com/file/d/1pOdMrvXrhLBH4s2rnYgf5hxx1BbhwHWH/view?usp=drive_link
 
 ## Image Processing Pipeline
 
@@ -40,7 +40,7 @@ Download model weights and put it under the `GroundingDINO/weights` directory.
 cd GroundingDINO/weights
 ```
 
-Link is here: \href{https://drive.google.com/file/d/1Wq0T5Rt0_ARCXOQLJ6oVvO1oSf_u8Kzy/view?usp=drive_link}{Google Drive}
+Link is here: https://drive.google.com/file/d/1Wq0T5Rt0_ARCXOQLJ6oVvO1oSf_u8Kzy/view?usp=drive_link
 
 ### Second Step:
 
